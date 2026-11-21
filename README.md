@@ -1,4 +1,4 @@
-# Java Scientific Calculator — Casio FX-350ES Plus 2nd Edition
+# Java Scientific Calculator  Casio FX-350ES Plus 2nd Edition
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![UI](https://img.shields.io/badge/UI-Swing-orange)
